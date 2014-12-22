@@ -13,3 +13,5 @@ This script helps you find bus routes that passes through a certain location. It
 
 Alternatively, use the console to run the code.
 
+##Warning
+Showing all the routes in one map is very CPU-intensive. Your Firefox may hang or crash. Use this script at your own risk!
